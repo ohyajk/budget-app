@@ -13,6 +13,8 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
+  - [🚀 Live Demo](#live-demo)
+  - [🚀 Video Presentation](#presentation)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -54,6 +56,17 @@
 - [x] Login users can add ingredients to a budget.
 - [x] Login users can delete a budget.
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://budgetappservice.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video Presentation <a name="presentation"></a>
+
+- [Video Presentation Link](https://www.loom.com/share/58eeeaffdeb145fb84980d0b41b8a20f)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -135,9 +148,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) the [author of the original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=), under [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <!-- LICENSE -->
 
